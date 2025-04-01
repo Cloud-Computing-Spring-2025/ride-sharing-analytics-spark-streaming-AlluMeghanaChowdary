@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-AlluMeghanaChowdary/output/parsed_data/part-00000-d1843e91-9b5c-4258-b873-843957bebaa1-c000.csv","size":161,"isDir":false,"modificationTime":1743530507480,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-AlluMeghanaChowdary/output/parsed_data/part-00001-35c66974-510b-4740-be72-71f2ea98d080-c000.csv","size":160,"isDir":false,"modificationTime":1743530507499,"blockReplication":1,"blockSize":33554432,"action":"add"}
